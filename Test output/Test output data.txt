@@ -1,0 +1,16 @@
+Rainfall for a Year in test
+
+January              | # # # # # # # # # # # # 
+February             | # # # # # # # # # # # # 
+March                | # # # # # # # # # # # # 
+April                | # # # # # # # # # # # # 
+May                  | # # # # # # # # # # # # 
+June                 | # # # # # # # # # # # # 
+July                 | # # # # # # # # # # # # 
+August               | # # # # # # # # # # # # 
+September            | # # # # # # # # # # # # 
+October              | # # # # # # # # # # # # 
+November             | # # # # # # # # # # # # 
+December             | # # # # # # # # # # # # 
+
+By Test on Mon Abc 01 34:56:78 9101
